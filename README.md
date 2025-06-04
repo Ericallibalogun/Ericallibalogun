@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm **Ericalli**, a **Software Engineer** with ong
 
 - **Email:** allieric28@gmail.com
 
-### 💡"You are born with all the greatest have had" - Edgar Albert Guest.
+### 💡"You are born with all that the greatest have had" - Edgar Albert Guest.
 
 
 
