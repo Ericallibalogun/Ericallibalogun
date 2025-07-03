@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Ericalli**, a **Software Engineer** with ongoing training experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other engineers.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ericalli&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ericallibalogun&style=flat-square)
 
 ---
 
@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm **Ericalli**, a **Software Engineer** with ong
 
 ## 📊 GitHub Stats
 
-![Ericalli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericalli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericalli&layout=compact&theme=radical&exclude_repo=old-php-project,random-ruby-repo)
+![Ericalli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericallibalogun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericallibalogun&layout=compact&theme=radical&exclude_repo=old-php-project,random-ruby-repo)
 
 
 
