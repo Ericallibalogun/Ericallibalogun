@@ -45,7 +45,8 @@ Welcome to my GitHub profile! I'm **Ericalli**, a **Software Engineer** with ong
 
 ![Ericalli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericalli&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericalli&layout=compact&theme=radical&exclude_repo=old-php-project,random-ruby-repo)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ericalli&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericalli" alt="GitHub Streak" />
+
 
 ---
 
